@@ -1,0 +1,1265 @@
+Zaktualizowano najlepszy wynik po iteracji: 1
+Wartość funkcji celu: 0.012421056167696856
+Dystans levensteina: 218
+
+
+Iteracja 1
+
+Szansa na użycie feromonów 0.75
+	1. Wartość funkcji celu: 0.012421056167696856
+		Dystans Levenshteina: 218
+	2. Wartość funkcji celu: 0.012421056167696856
+		Dystans Levenshteina: 183
+	3. Wartość funkcji celu: 0.012421056167696856
+		Dystans Levenshteina: 192
+	4. Wartość funkcji celu: 0.012421056167696856
+		Dystans Levenshteina: 195
+	5. Wartość funkcji celu: 0.012421056167696856
+		Dystans Levenshteina: 233
+	6. Wartość funkcji celu: 0.012421056167696856
+		Dystans Levenshteina: 231
+	7. Wartość funkcji celu: 0.012421056167696856
+		Dystans Levenshteina: 222
+	8. Wartość funkcji celu: 0.012421056167696856
+		Dystans Levenshteina: 188
+	9. Wartość funkcji celu: 0.012421056167696856
+		Dystans Levenshteina: 245
+	10. Wartość funkcji celu: 0.012421056167696856
+		Dystans Levenshteina: 197
+	11. Wartość funkcji celu: 0.012421056167696856
+		Dystans Levenshteina: 237
+	12. Wartość funkcji celu: 0.012421056167696856
+		Dystans Levenshteina: 219
+	13. Wartość funkcji celu: 0.012421056167696856
+		Dystans Levenshteina: 167
+	14. Wartość funkcji celu: 0.012447289539196259
+		Dystans Levenshteina: 233
+	15. Wartość funkcji celu: 0.012447289539196259
+		Dystans Levenshteina: 234
+	16. Wartość funkcji celu: 0.012447289539196259
+		Dystans Levenshteina: 133
+	17. Wartość funkcji celu: 0.012447289539196259
+		Dystans Levenshteina: 228
+	18. Wartość funkcji celu: 0.008403324099722992
+		Dystans Levenshteina: 191
+	19. Wartość funkcji celu: 0.010660980810234541
+		Dystans Levenshteina: 242
+	20. Wartość funkcji celu: 0.008638941398865785
+		Dystans Levenshteina: 164
+	21. Wartość funkcji celu: 0.010822306238185255
+		Dystans Levenshteina: 213
+	22. Wartość funkcji celu: 0.010798932811345701
+		Dystans Levenshteina: 199
+	23. Wartość funkcji celu: 0.010798932811345701
+		Dystans Levenshteina: 237
+	24. Wartość funkcji celu: 0.010798932811345701
+		Dystans Levenshteina: 236
+	25. Wartość funkcji celu: 0.008638941398865785
+		Dystans Levenshteina: 201
+	26. Wartość funkcji celu: 0.008638941398865785
+		Dystans Levenshteina: 251
+	27. Wartość funkcji celu: 0.008657348258042371
+		Dystans Levenshteina: 226
+	28. Wartość funkcji celu: 0.008713923439198164
+		Dystans Levenshteina: 236
+	29. Wartość funkcji celu: 0.008694602101195508
+		Dystans Levenshteina: 253
+	30. Wartość funkcji celu: 0.008713923439198164
+		Dystans Levenshteina: 205
+
+Iteracja 2
+
+Szansa na użycie feromonów 1.5
+	1. Wartość funkcji celu: 2.6346666666666665
+		Dystans Levenshteina: 253
+	2. Wartość funkcji celu: 2.6866214884674937
+		Dystans Levenshteina: 254
+	3. Wartość funkcji celu: 2.79095041322314
+		Dystans Levenshteina: 246
+	4. Wartość funkcji celu: 2.8267759221033755
+		Dystans Levenshteina: 258
+	5. Wartość funkcji celu: 2.9328505595786702
+		Dystans Levenshteina: 260
+	6. Wartość funkcji celu: 2.8267759221033755
+		Dystans Levenshteina: 242
+	7. Wartość funkcji celu: 2.8631428330948574
+		Dystans Levenshteina: 250
+	8. Wartość funkcji celu: 2.9000615855082925
+		Dystans Levenshteina: 243
+	9. Wartość funkcji celu: 2.9000615855082925
+		Dystans Levenshteina: 259
+	10. Wartość funkcji celu: 2.916434836161312
+		Dystans Levenshteina: 236
+
+Iteracja 3
+
+Szansa na użycie feromonów 2.25
+	1. Wartość funkcji celu: 2.6230825420014607
+		Dystans Levenshteina: 256
+	2. Wartość funkcji celu: 2.7208830452073696
+		Dystans Levenshteina: 251
+	3. Wartość funkcji celu: 2.79095041322314
+		Dystans Levenshteina: 246
+	4. Wartość funkcji celu: 2.79095041322314
+		Dystans Levenshteina: 247
+	5. Wartość funkcji celu: 2.8267759221033755
+		Dystans Levenshteina: 249
+	6. Wartość funkcji celu: 2.8267759221033755
+		Dystans Levenshteina: 252
+	7. Wartość funkcji celu: 2.79095041322314
+		Dystans Levenshteina: 254
+	8. Wartość funkcji celu: 2.6722630576769517
+		Dystans Levenshteina: 252
+	9. Wartość funkcji celu: 2.9328505595786702
+		Dystans Levenshteina: 246
+	10. Wartość funkcji celu: 2.8130561277580752
+		Dystans Levenshteina: 236
+
+Iteracja 4
+
+Szansa na użycie feromonów 3.0
+	1. Wartość funkcji celu: 2.5545032894098467
+		Dystans Levenshteina: 253
+	2. Wartość funkcji celu: 2.649777777777778
+		Dystans Levenshteina: 234
+	3. Wartość funkcji celu: 2.652861926020408
+		Dystans Levenshteina: 255
+	4. Wartość funkcji celu: 2.619595061728395
+		Dystans Levenshteina: 258
+	5. Wartość funkcji celu: 2.71536401266131
+		Dystans Levenshteina: 242
+	6. Wartość funkcji celu: 2.7520087655222794
+		Dystans Levenshteina: 250
+	7. Wartość funkcji celu: 2.8267759221033755
+		Dystans Levenshteina: 252
+	8. Wartość funkcji celu: 2.7520087655222794
+		Dystans Levenshteina: 260
+	9. Wartość funkcji celu: 2.879345172965239
+		Dystans Levenshteina: 255
+	10. Wartość funkcji celu: 2.8267759221033755
+		Dystans Levenshteina: 240
+
+Iteracja 5
+
+Szansa na użycie feromonów 3.75
+	1. Wartość funkcji celu: 2.619595061728395
+		Dystans Levenshteina: 248
+	2. Wartość funkcji celu: 2.771360127761512
+		Dystans Levenshteina: 246
+	3. Wartość funkcji celu: 2.755656108597285
+		Dystans Levenshteina: 248
+	4. Wartość funkcji celu: 2.755656108597285
+		Dystans Levenshteina: 245
+	5. Wartość funkcji celu: 2.806818181818182
+		Dystans Levenshteina: 239
+	6. Wartość funkcji celu: 2.8227272727272728
+		Dystans Levenshteina: 245
+	7. Wartość funkcji celu: 2.8428097829486454
+		Dystans Levenshteina: 245
+	8. Wartość funkcji celu: 2.8267759221033755
+		Dystans Levenshteina: 254
+	9. Wartość funkcji celu: 2.8631428330948574
+		Dystans Levenshteina: 241
+	10. Wartość funkcji celu: 2.8090438515276492
+		Dystans Levenshteina: 237
+
+Iteracja 6
+
+Szansa na użycie feromonów 4.5
+	1. Wartość funkcji celu: 2.551939058171745
+		Dystans Levenshteina: 256
+	2. Wartość funkcji celu: 2.6680883290816326
+		Dystans Levenshteina: 237
+	3. Wartość funkcji celu: 2.7174284622654787
+		Dystans Levenshteina: 254
+	4. Wartość funkcji celu: 2.736425614803993
+		Dystans Levenshteina: 242
+	5. Wartość funkcji celu: 2.6536807077347624
+		Dystans Levenshteina: 245
+	6. Wartość funkcji celu: 2.771360127761512
+		Dystans Levenshteina: 253
+	7. Wartość funkcji celu: 2.787105096128253
+		Dystans Levenshteina: 258
+	8. Wartość funkcji celu: 2.8428097829486454
+		Dystans Levenshteina: 246
+	9. Wartość funkcji celu: 2.8955895968352827
+		Dystans Levenshteina: 241
+	10. Wartość funkcji celu: 2.7574070599028375
+		Dystans Levenshteina: 241
+
+Iteracja 7
+
+Szansa na użycie feromonów 5.25
+	1. Wartość funkcji celu: 2.551939058171745
+		Dystans Levenshteina: 230
+	2. Wartość funkcji celu: 2.601730754170256
+		Dystans Levenshteina: 253
+	3. Wartość funkcji celu: 2.736425614803993
+		Dystans Levenshteina: 256
+	4. Wartość funkcji celu: 2.8428097829486454
+		Dystans Levenshteina: 252
+	5. Wartość funkcji celu: 2.8955895968352827
+		Dystans Levenshteina: 232
+	6. Wartość funkcji celu: 2.916434836161312
+		Dystans Levenshteina: 256
+	7. Wartość funkcji celu: 2.9000615855082925
+		Dystans Levenshteina: 258
+	8. Wartość funkcji celu: 2.9706790123456788
+		Dystans Levenshteina: 247
+	9. Wartość funkcji celu: 2.9706790123456788
+		Dystans Levenshteina: 239
+	10. Wartość funkcji celu: 3.0090859924283397
+		Dystans Levenshteina: 241
+
+Iteracja 8
+
+Szansa na użycie feromonów 6.0
+	1. Wartość funkcji celu: 2.5868118098519854
+		Dystans Levenshteina: 253
+	2. Wartość funkcji celu: 2.7174284622654787
+		Dystans Levenshteina: 248
+	3. Wartość funkcji celu: 2.736425614803993
+		Dystans Levenshteina: 235
+	4. Wartość funkcji celu: 2.6866214884674937
+		Dystans Levenshteina: 239
+	5. Wartość funkcji celu: 2.771360127761512
+		Dystans Levenshteina: 250
+	6. Wartość funkcji celu: 2.8267759221033755
+		Dystans Levenshteina: 260
+	7. Wartość funkcji celu: 2.8631428330948574
+		Dystans Levenshteina: 248
+	8. Wartość funkcji celu: 2.8428097829486454
+		Dystans Levenshteina: 245
+	9. Wartość funkcji celu: 2.7969589500732654
+		Dystans Levenshteina: 250
+	10. Wartość funkcji celu: 2.8333333333333335
+		Dystans Levenshteina: 239
+
+Iteracja 9
+
+Szansa na użycie feromonów 6.75
+	1. Wartość funkcji celu: 2.5868118098519854
+		Dystans Levenshteina: 245
+	2. Wartość funkcji celu: 2.8428097829486454
+		Dystans Levenshteina: 242
+	3. Wartość funkcji celu: 2.8631428330948574
+		Dystans Levenshteina: 253
+	4. Wartość funkcji celu: 2.7574070599028375
+		Dystans Levenshteina: 266
+	5. Wartość funkcji celu: 2.916434836161312
+		Dystans Levenshteina: 240
+	6. Wartość funkcji celu: 2.916434836161312
+		Dystans Levenshteina: 236
+	7. Wartość funkcji celu: 2.9328505595786702
+		Dystans Levenshteina: 245
+	8. Wartość funkcji celu: 2.9706790123456788
+		Dystans Levenshteina: 241
+	9. Wartość funkcji celu: 2.916434836161312
+		Dystans Levenshteina: 256
+	10. Wartość funkcji celu: 2.975597620335316
+		Dystans Levenshteina: 254
+
+Iteracja 10
+
+Szansa na użycie feromonów 7.5
+	1. Wartość funkcji celu: 2.6866214884674937
+		Dystans Levenshteina: 242
+	2. Wartość funkcji celu: 2.755656108597285
+		Dystans Levenshteina: 246
+	3. Wartość funkcji celu: 2.755656108597285
+		Dystans Levenshteina: 256
+	4. Wartość funkcji celu: 2.6866214884674937
+		Dystans Levenshteina: 246
+	5. Wartość funkcji celu: 2.8631428330948574
+		Dystans Levenshteina: 247
+	6. Wartość funkcji celu: 2.8631428330948574
+		Dystans Levenshteina: 248
+	7. Wartość funkcji celu: 2.8955895968352827
+		Dystans Levenshteina: 248
+	8. Wartość funkcji celu: 2.806818181818182
+		Dystans Levenshteina: 245
+	9. Wartość funkcji celu: 2.8267759221033755
+		Dystans Levenshteina: 242
+	10. Wartość funkcji celu: 2.8955895968352827
+		Dystans Levenshteina: 250
+
+Iteracja 11
+
+Szansa na użycie feromonów 8.25
+	1. Wartość funkcji celu: 2.6833545918367343
+		Dystans Levenshteina: 245
+	2. Wartość funkcji celu: 2.79095041322314
+		Dystans Levenshteina: 239
+	3. Wartość funkcji celu: 2.806818181818182
+		Dystans Levenshteina: 247
+	4. Wartość funkcji celu: 2.5544691358024694
+		Dystans Levenshteina: 256
+	5. Wartość funkcji celu: 2.755656108597285
+		Dystans Levenshteina: 255
+	6. Wartość funkcji celu: 2.8588853443422786
+		Dystans Levenshteina: 243
+	7. Wartość funkcji celu: 2.879345172965239
+		Dystans Levenshteina: 243
+	8. Wartość funkcji celu: 2.9000615855082925
+		Dystans Levenshteina: 242
+	9. Wartość funkcji celu: 2.8631428330948574
+		Dystans Levenshteina: 253
+	10. Wartość funkcji celu: 2.7574070599028375
+		Dystans Levenshteina: 250
+
+Iteracja 12
+
+Szansa na użycie feromonów 9.0
+	1. Wartość funkcji celu: 2.6346666666666665
+		Dystans Levenshteina: 246
+	2. Wartość funkcji celu: 2.7174284622654787
+		Dystans Levenshteina: 251
+	3. Wartość funkcji celu: 2.755656108597285
+		Dystans Levenshteina: 235
+	4. Wartość funkcji celu: 2.620121056124193
+		Dystans Levenshteina: 248
+	5. Wartość funkcji celu: 2.8227272727272728
+		Dystans Levenshteina: 244
+	6. Wartość funkcji celu: 2.8428097829486454
+		Dystans Levenshteina: 241
+	7. Wartość funkcji celu: 2.6568252083290678
+		Dystans Levenshteina: 259
+	8. Wartość funkcji celu: 2.68774185622735
+		Dystans Levenshteina: 242
+	9. Wartość funkcji celu: 2.806818181818182
+		Dystans Levenshteina: 252
+	10. Wartość funkcji celu: 2.9000615855082925
+		Dystans Levenshteina: 255
+
+Iteracja 13
+
+Szansa na użycie feromonów 9.75
+	1. Wartość funkcji celu: 2.755656108597285
+		Dystans Levenshteina: 247
+	2. Wartość funkcji celu: 2.8227272727272728
+		Dystans Levenshteina: 253
+	3. Wartość funkcji celu: 2.8631428330948574
+		Dystans Levenshteina: 244
+	4. Wartość funkcji celu: 2.9000615855082925
+		Dystans Levenshteina: 247
+	5. Wartość funkcji celu: 2.793030889655753
+		Dystans Levenshteina: 256
+	6. Wartość funkcji celu: 2.879345172965239
+		Dystans Levenshteina: 254
+	7. Wartość funkcji celu: 2.9706790123456788
+		Dystans Levenshteina: 244
+	8. Wartość funkcji celu: 2.9328505595786702
+		Dystans Levenshteina: 251
+	9. Wartość funkcji celu: 2.975597620335316
+		Dystans Levenshteina: 256
+	10. Wartość funkcji celu: 2.9706790123456788
+		Dystans Levenshteina: 243
+
+Iteracja 14
+
+Szansa na użycie feromonów 10.5
+	1. Wartość funkcji celu: 2.652861926020408
+		Dystans Levenshteina: 242
+	2. Wartość funkcji celu: 2.806818181818182
+		Dystans Levenshteina: 236
+	3. Wartość funkcji celu: 2.806818181818182
+		Dystans Levenshteina: 251
+	4. Wartość funkcji celu: 2.68774185622735
+		Dystans Levenshteina: 256
+	5. Wartość funkcji celu: 2.879345172965239
+		Dystans Levenshteina: 253
+	6. Wartość funkcji celu: 2.9000615855082925
+		Dystans Levenshteina: 250
+	7. Wartość funkcji celu: 2.916434836161312
+		Dystans Levenshteina: 246
+	8. Wartość funkcji celu: 2.8955895968352827
+		Dystans Levenshteina: 247
+	9. Wartość funkcji celu: 2.9000615855082925
+		Dystans Levenshteina: 248
+	10. Wartość funkcji celu: 2.916434836161312
+		Dystans Levenshteina: 254
+
+Iteracja 15
+
+Szansa na użycie feromonów 11.25
+	1. Wartość funkcji celu: 2.6680883290816326
+		Dystans Levenshteina: 249
+	2. Wartość funkcji celu: 2.6866214884674937
+		Dystans Levenshteina: 253
+	3. Wartość funkcji celu: 2.7174284622654787
+		Dystans Levenshteina: 244
+	4. Wartość funkcji celu: 2.7020048663757565
+		Dystans Levenshteina: 257
+	5. Wartość funkcji celu: 2.736425614803993
+		Dystans Levenshteina: 242
+	6. Wartość funkcji celu: 2.771360127761512
+		Dystans Levenshteina: 248
+	7. Wartość funkcji celu: 2.6568252083290678
+		Dystans Levenshteina: 254
+	8. Wartość funkcji celu: 2.8588853443422786
+		Dystans Levenshteina: 247
+	9. Wartość funkcji celu: 2.9000615855082925
+		Dystans Levenshteina: 248
+	10. Wartość funkcji celu: 2.916434836161312
+		Dystans Levenshteina: 244
+
+Iteracja 16
+
+Szansa na użycie feromonów 12.0
+	1. Wartość funkcji celu: 2.736425614803993
+		Dystans Levenshteina: 250
+	2. Wartość funkcji celu: 2.7520087655222794
+		Dystans Levenshteina: 250
+	3. Wartość funkcji celu: 2.771360127761512
+		Dystans Levenshteina: 257
+	4. Wartość funkcji celu: 2.8428097829486454
+		Dystans Levenshteina: 244
+	5. Wartość funkcji celu: 2.787105096128253
+		Dystans Levenshteina: 248
+	6. Wartość funkcji celu: 2.8428097829486454
+		Dystans Levenshteina: 251
+	7. Wartość funkcji celu: 2.8631428330948574
+		Dystans Levenshteina: 247
+	8. Wartość funkcji celu: 2.8955895968352827
+		Dystans Levenshteina: 258
+	9. Wartość funkcji celu: 2.9000615855082925
+		Dystans Levenshteina: 251
+	10. Wartość funkcji celu: 2.9000615855082925
+		Dystans Levenshteina: 244
+
+Iteracja 17
+
+Szansa na użycie feromonów 12.75
+	1. Wartość funkcji celu: 2.4890359168241964
+		Dystans Levenshteina: 255
+	2. Wartość funkcji celu: 2.5545032894098467
+		Dystans Levenshteina: 253
+	3. Wartość funkcji celu: 2.619595061728395
+		Dystans Levenshteina: 248
+	4. Wartość funkcji celu: 2.7020048663757565
+		Dystans Levenshteina: 244
+	5. Wartość funkcji celu: 2.755656108597285
+		Dystans Levenshteina: 247
+	6. Wartość funkcji celu: 2.6910743801652894
+		Dystans Levenshteina: 244
+	7. Wartość funkcji celu: 2.8267759221033755
+		Dystans Levenshteina: 260
+	8. Wartość funkcji celu: 2.9000615855082925
+		Dystans Levenshteina: 255
+	9. Wartość funkcji celu: 2.8631428330948574
+		Dystans Levenshteina: 253
+	10. Wartość funkcji celu: 2.642146744229686
+		Dystans Levenshteina: 240
+
+Iteracja 18
+
+Szansa na użycie feromonów 13.5
+	1. Wartość funkcji celu: 2.4287866364104427
+		Dystans Levenshteina: 248
+	2. Wartość funkcji celu: 2.736425614803993
+		Dystans Levenshteina: 252
+	3. Wartość funkcji celu: 2.79095041322314
+		Dystans Levenshteina: 252
+	4. Wartość funkcji celu: 2.8267759221033755
+		Dystans Levenshteina: 247
+	5. Wartość funkcji celu: 2.8631428330948574
+		Dystans Levenshteina: 245
+	6. Wartość funkcji celu: 2.8631428330948574
+		Dystans Levenshteina: 260
+	7. Wartość funkcji celu: 2.77706001178352
+		Dystans Levenshteina: 229
+	8. Wartość funkcji celu: 2.879345172965239
+		Dystans Levenshteina: 255
+	9. Wartość funkcji celu: 2.8955895968352827
+		Dystans Levenshteina: 247
+	10. Wartość funkcji celu: 2.8955895968352827
+		Dystans Levenshteina: 257
+
+Iteracja 19
+
+Szansa na użycie feromonów 14.25
+	1. Wartość funkcji celu: 2.6866214884674937
+		Dystans Levenshteina: 245
+	2. Wartość funkcji celu: 2.6049588771139573
+		Dystans Levenshteina: 247
+	3. Wartość funkcji celu: 2.5396148148148145
+		Dystans Levenshteina: 241
+	4. Wartość funkcji celu: 2.755656108597285
+		Dystans Levenshteina: 246
+	5. Wartość funkcji celu: 2.79095041322314
+		Dystans Levenshteina: 234
+	6. Wartość funkcji celu: 2.8955895968352827
+		Dystans Levenshteina: 235
+	7. Wartość funkcji celu: 2.8631428330948574
+		Dystans Levenshteina: 241
+	8. Wartość funkcji celu: 2.9000615855082925
+		Dystans Levenshteina: 245
+	9. Wartość funkcji celu: 2.916434836161312
+		Dystans Levenshteina: 246
+	10. Wartość funkcji celu: 2.9706790123456788
+		Dystans Levenshteina: 258
+
+Iteracja 20
+
+Szansa na użycie feromonów 15.0
+	1. Wartość funkcji celu: 2.652861926020408
+		Dystans Levenshteina: 260
+	2. Wartość funkcji celu: 2.652861926020408
+		Dystans Levenshteina: 235
+	3. Wartość funkcji celu: 2.6866214884674937
+		Dystans Levenshteina: 248
+	4. Wartość funkcji celu: 2.755656108597285
+		Dystans Levenshteina: 257
+	5. Wartość funkcji celu: 2.755656108597285
+		Dystans Levenshteina: 248
+	6. Wartość funkcji celu: 2.6536807077347624
+		Dystans Levenshteina: 243
+	7. Wartość funkcji celu: 2.79095041322314
+		Dystans Levenshteina: 242
+	8. Wartość funkcji celu: 2.8227272727272728
+		Dystans Levenshteina: 244
+	9. Wartość funkcji celu: 2.8588853443422786
+		Dystans Levenshteina: 235
+	10. Wartość funkcji celu: 2.7066735537190083
+		Dystans Levenshteina: 231
+
+Iteracja 21
+
+Szansa na użycie feromonów 15.75
+	1. Wartość funkcji celu: 2.5840788682101343
+		Dystans Levenshteina: 252
+	2. Wartość funkcji celu: 2.7520087655222794
+		Dystans Levenshteina: 248
+	3. Wartość funkcji celu: 2.755656108597285
+		Dystans Levenshteina: 240
+	4. Wartość funkcji celu: 2.8428097829486454
+		Dystans Levenshteina: 247
+	5. Wartość funkcji celu: 2.8955895968352827
+		Dystans Levenshteina: 247
+	6. Wartość funkcji celu: 2.6910743801652894
+		Dystans Levenshteina: 246
+	7. Wartość funkcji celu: 2.9000615855082925
+		Dystans Levenshteina: 249
+	8. Wartość funkcji celu: 2.685537190082645
+		Dystans Levenshteina: 261
+	9. Wartość funkcji celu: 2.8955895968352827
+		Dystans Levenshteina: 260
+	10. Wartość funkcji celu: 2.916434836161312
+		Dystans Levenshteina: 250
+
+Iteracja 22
+
+Szansa na użycie feromonów 16.5
+	1. Wartość funkcji celu: 2.340698262776185
+		Dystans Levenshteina: 228
+	2. Wartość funkcji celu: 2.736425614803993
+		Dystans Levenshteina: 250
+	3. Wartość funkcji celu: 2.8428097829486454
+		Dystans Levenshteina: 221
+	4. Wartość funkcji celu: 2.8267759221033755
+		Dystans Levenshteina: 256
+	5. Wartość funkcji celu: 2.8955895968352827
+		Dystans Levenshteina: 252
+	6. Wartość funkcji celu: 2.9000615855082925
+		Dystans Levenshteina: 252
+	7. Wartość funkcji celu: 2.9328505595786702
+		Dystans Levenshteina: 254
+	8. Wartość funkcji celu: 2.5570570570570568
+		Dystans Levenshteina: 247
+	9. Wartość funkcji celu: 2.793030889655753
+		Dystans Levenshteina: 251
+	10. Wartość funkcji celu: 2.916434836161312
+		Dystans Levenshteina: 256
+
+Iteracja 23
+
+Szansa na użycie feromonów 17.25
+	1. Wartość funkcji celu: 2.8631428330948574
+		Dystans Levenshteina: 241
+	2. Wartość funkcji celu: 2.879345172965239
+		Dystans Levenshteina: 254
+	3. Wartość funkcji celu: 2.8267759221033755
+		Dystans Levenshteina: 228
+	4. Wartość funkcji celu: 2.642146744229686
+		Dystans Levenshteina: 238
+	5. Wartość funkcji celu: 2.916434836161312
+		Dystans Levenshteina: 254
+	6. Wartość funkcji celu: 2.95408950617284
+		Dystans Levenshteina: 249
+	7. Wartość funkcji celu: 2.95408950617284
+		Dystans Levenshteina: 255
+	8. Wartość funkcji celu: 2.95408950617284
+		Dystans Levenshteina: 249
+	9. Wartość funkcji celu: 2.74160255207356
+		Dystans Levenshteina: 248
+	10. Wartość funkcji celu: 2.975597620335316
+		Dystans Levenshteina: 246
+
+Iteracja 24
+
+Szansa na użycie feromonów 18.0
+	1. Wartość funkcji celu: 2.616688855822696
+		Dystans Levenshteina: 265
+	2. Wartość funkcji celu: 2.7174284622654787
+		Dystans Levenshteina: 251
+	3. Wartość funkcji celu: 2.587053571428571
+		Dystans Levenshteina: 249
+	4. Wartość funkcji celu: 2.8267759221033755
+		Dystans Levenshteina: 249
+	5. Wartość funkcji celu: 2.9000615855082925
+		Dystans Levenshteina: 253
+	6. Wartość funkcji celu: 2.9328505595786702
+		Dystans Levenshteina: 257
+	7. Wartość funkcji celu: 2.9706790123456788
+		Dystans Levenshteina: 254
+	8. Wartość funkcji celu: 2.916434836161312
+		Dystans Levenshteina: 259
+	9. Wartość funkcji celu: 2.9328505595786702
+		Dystans Levenshteina: 253
+	10. Wartość funkcji celu: 2.9706790123456788
+		Dystans Levenshteina: 258
+
+Iteracja 25
+
+Szansa na użycie feromonów 18.75
+	1. Wartość funkcji celu: 2.430747922437673
+		Dystans Levenshteina: 250
+	2. Wartość funkcji celu: 2.6680883290816326
+		Dystans Levenshteina: 250
+	3. Wartość funkcji celu: 2.6866214884674937
+		Dystans Levenshteina: 260
+	4. Wartość funkcji celu: 2.7174284622654787
+		Dystans Levenshteina: 264
+	5. Wartość funkcji celu: 2.736425614803993
+		Dystans Levenshteina: 243
+	6. Wartość funkcji celu: 2.806818181818182
+		Dystans Levenshteina: 249
+	7. Wartość funkcji celu: 2.7174284622654787
+		Dystans Levenshteina: 245
+	8. Wartość funkcji celu: 2.8428097829486454
+		Dystans Levenshteina: 242
+	9. Wartość funkcji celu: 2.750066542454086
+		Dystans Levenshteina: 253
+	10. Wartość funkcji celu: 2.8227272727272728
+		Dystans Levenshteina: 245
+
+Iteracja 26
+
+Szansa na użycie feromonów 19.5
+	1. Wartość funkcji celu: 2.4279131985731275
+		Dystans Levenshteina: 264
+	2. Wartość funkcji celu: 2.5868118098519854
+		Dystans Levenshteina: 254
+	3. Wartość funkcji celu: 2.7174284622654787
+		Dystans Levenshteina: 236
+	4. Wartość funkcji celu: 2.7520087655222794
+		Dystans Levenshteina: 256
+	5. Wartość funkcji celu: 2.806818181818182
+		Dystans Levenshteina: 248
+	6. Wartość funkcji celu: 2.879345172965239
+		Dystans Levenshteina: 251
+	7. Wartość funkcji celu: 2.9000615855082925
+		Dystans Levenshteina: 243
+	8. Wartość funkcji celu: 2.95408950617284
+		Dystans Levenshteina: 252
+	9. Wartość funkcji celu: 2.95408950617284
+		Dystans Levenshteina: 258
+	10. Wartość funkcji celu: 2.9706790123456788
+		Dystans Levenshteina: 239
+
+Iteracja 27
+
+Szansa na użycie feromonów 20.25
+	1. Wartość funkcji celu: 2.806818181818182
+		Dystans Levenshteina: 252
+	2. Wartość funkcji celu: 2.6690406622839054
+		Dystans Levenshteina: 245
+	3. Wartość funkcji celu: 2.8588853443422786
+		Dystans Levenshteina: 255
+	4. Wartość funkcji celu: 2.8631428330948574
+		Dystans Levenshteina: 251
+	5. Wartość funkcji celu: 2.8631428330948574
+		Dystans Levenshteina: 252
+	6. Wartość funkcji celu: 2.9000615855082925
+		Dystans Levenshteina: 243
+	7. Wartość funkcji celu: 2.9000615855082925
+		Dystans Levenshteina: 240
+	8. Wartość funkcji celu: 2.9000615855082925
+		Dystans Levenshteina: 257
+	9. Wartość funkcji celu: 2.6230825420014607
+		Dystans Levenshteina: 256
+	10. Wartość funkcji celu: 2.6576801984946106
+		Dystans Levenshteina: 241
+
+Iteracja 28
+
+Szansa na użycie feromonów 21.0
+	1. Wartość funkcji celu: 2.6833545918367343
+		Dystans Levenshteina: 253
+	2. Wartość funkcji celu: 2.7174284622654787
+		Dystans Levenshteina: 243
+	3. Wartość funkcji celu: 2.806818181818182
+		Dystans Levenshteina: 252
+	4. Wartość funkcji celu: 2.8428097829486454
+		Dystans Levenshteina: 251
+	5. Wartość funkcji celu: 2.8267759221033755
+		Dystans Levenshteina: 235
+	6. Wartość funkcji celu: 2.8428097829486454
+		Dystans Levenshteina: 260
+	7. Wartość funkcji celu: 2.8090438515276492
+		Dystans Levenshteina: 254
+	8. Wartość funkcji celu: 2.879345172965239
+		Dystans Levenshteina: 242
+	9. Wartość funkcji celu: 2.6722630576769517
+		Dystans Levenshteina: 256
+	10. Wartość funkcji celu: 2.8631428330948574
+		Dystans Levenshteina: 234
+
+Iteracja 29
+
+Szansa na użycie feromonów 21.75
+	1. Wartość funkcji celu: 2.601730754170256
+		Dystans Levenshteina: 245
+	2. Wartość funkcji celu: 2.8631428330948574
+		Dystans Levenshteina: 262
+	3. Wartość funkcji celu: 2.8227272727272728
+		Dystans Levenshteina: 251
+	4. Wartość funkcji celu: 2.8267759221033755
+		Dystans Levenshteina: 213
+	5. Wartość funkcji celu: 2.8267759221033755
+		Dystans Levenshteina: 260
+	6. Wartość funkcji celu: 2.916434836161312
+		Dystans Levenshteina: 240
+	7. Wartość funkcji celu: 2.95408950617284
+		Dystans Levenshteina: 255
+	8. Wartość funkcji celu: 2.9923201730665228
+		Dystans Levenshteina: 236
+	9. Wartość funkcji celu: 3.0090859924283397
+		Dystans Levenshteina: 254
+	10. Wartość funkcji celu: 3.0090859924283397
+		Dystans Levenshteina: 236
+
+Iteracja 30
+
+Szansa na użycie feromonów 22.5
+	1. Wartość funkcji celu: 2.551939058171745
+		Dystans Levenshteina: 265
+	2. Wartość funkcji celu: 2.619595061728395
+		Dystans Levenshteina: 245
+	3. Wartość funkcji celu: 2.652861926020408
+		Dystans Levenshteina: 231
+	4. Wartość funkcji celu: 2.7020048663757565
+		Dystans Levenshteina: 262
+	5. Wartość funkcji celu: 2.7208830452073696
+		Dystans Levenshteina: 248
+	6. Wartość funkcji celu: 2.7520087655222794
+		Dystans Levenshteina: 234
+	7. Wartość funkcji celu: 2.79095041322314
+		Dystans Levenshteina: 261
+	8. Wartość funkcji celu: 2.806818181818182
+		Dystans Levenshteina: 251
+	9. Wartość funkcji celu: 2.8631428330948574
+		Dystans Levenshteina: 240
+	10. Wartość funkcji celu: 2.9000615855082925
+		Dystans Levenshteina: 256
+
+Iteracja 31
+
+Szansa na użycie feromonów 23.25
+	1. Wartość funkcji celu: 2.6866214884674937
+		Dystans Levenshteina: 248
+	2. Wartość funkcji celu: 2.7520087655222794
+		Dystans Levenshteina: 252
+	3. Wartość funkcji celu: 2.8588853443422786
+		Dystans Levenshteina: 225
+	4. Wartość funkcji celu: 2.8267759221033755
+		Dystans Levenshteina: 244
+	5. Wartość funkcji celu: 2.8955895968352827
+		Dystans Levenshteina: 246
+	6. Wartość funkcji celu: 2.8955895968352827
+		Dystans Levenshteina: 252
+	7. Wartość funkcji celu: 2.916434836161312
+		Dystans Levenshteina: 244
+	8. Wartość funkcji celu: 2.9328505595786702
+		Dystans Levenshteina: 253
+	9. Wartość funkcji celu: 2.77706001178352
+		Dystans Levenshteina: 256
+	10. Wartość funkcji celu: 2.9000615855082925
+		Dystans Levenshteina: 246
+
+Iteracja 32
+
+Szansa na użycie feromonów 24.0
+	1. Wartość funkcji celu: 2.652861926020408
+		Dystans Levenshteina: 241
+	2. Wartość funkcji celu: 2.7020048663757565
+		Dystans Levenshteina: 247
+	3. Wartość funkcji celu: 2.755656108597285
+		Dystans Levenshteina: 236
+	4. Wartość funkcji celu: 2.771360127761512
+		Dystans Levenshteina: 255
+	5. Wartość funkcji celu: 2.771360127761512
+		Dystans Levenshteina: 249
+	6. Wartość funkcji celu: 2.771360127761512
+		Dystans Levenshteina: 233
+	7. Wartość funkcji celu: 2.8428097829486454
+		Dystans Levenshteina: 251
+	8. Wartość funkcji celu: 2.7574070599028375
+		Dystans Levenshteina: 253
+	9. Wartość funkcji celu: 2.937542866941015
+		Dystans Levenshteina: 236
+	10. Wartość funkcji celu: 2.8428097829486454
+		Dystans Levenshteina: 235
+
+Iteracja 33
+
+Szansa na użycie feromonów 24.75
+	1. Wartość funkcji celu: 2.551939058171745
+		Dystans Levenshteina: 244
+	2. Wartość funkcji celu: 2.7174284622654787
+		Dystans Levenshteina: 246
+	3. Wartość funkcji celu: 2.8227272727272728
+		Dystans Levenshteina: 247
+	4. Wartość funkcji celu: 2.8267759221033755
+		Dystans Levenshteina: 243
+	5. Wartość funkcji celu: 2.6910743801652894
+		Dystans Levenshteina: 251
+	6. Wartość funkcji celu: 2.79095041322314
+		Dystans Levenshteina: 257
+	7. Wartość funkcji celu: 2.8227272727272728
+		Dystans Levenshteina: 253
+	8. Wartość funkcji celu: 2.879345172965239
+		Dystans Levenshteina: 250
+	9. Wartość funkcji celu: 2.879345172965239
+		Dystans Levenshteina: 243
+	10. Wartość funkcji celu: 2.879345172965239
+		Dystans Levenshteina: 240
+
+Iteracja 34
+
+Szansa na użycie feromonów 25.5
+	1. Wartość funkcji celu: 2.5868118098519854
+		Dystans Levenshteina: 247
+	2. Wartość funkcji celu: 2.652861926020408
+		Dystans Levenshteina: 259
+	3. Wartość funkcji celu: 2.7208830452073696
+		Dystans Levenshteina: 248
+	4. Wartość funkcji celu: 2.771360127761512
+		Dystans Levenshteina: 260
+	5. Wartość funkcji celu: 2.8588853443422786
+		Dystans Levenshteina: 251
+	6. Wartość funkcji celu: 2.477678571428571
+		Dystans Levenshteina: 249
+	7. Wartość funkcji celu: 2.79095041322314
+		Dystans Levenshteina: 264
+	8. Wartość funkcji celu: 2.806818181818182
+		Dystans Levenshteina: 256
+	9. Wartość funkcji celu: 2.8428097829486454
+		Dystans Levenshteina: 250
+	10. Wartość funkcji celu: 2.8955895968352827
+		Dystans Levenshteina: 248
+
+Iteracja 35
+
+Szansa na użycie feromonów 26.25
+	1. Wartość funkcji celu: 2.7520087655222794
+		Dystans Levenshteina: 258
+	2. Wartość funkcji celu: 2.6536807077347624
+		Dystans Levenshteina: 247
+	3. Wartość funkcji celu: 2.7020048663757565
+		Dystans Levenshteina: 238
+	4. Wartość funkcji celu: 2.79095041322314
+		Dystans Levenshteina: 245
+	5. Wartość funkcji celu: 2.79095041322314
+		Dystans Levenshteina: 253
+	6. Wartość funkcji celu: 2.806818181818182
+		Dystans Levenshteina: 247
+	7. Wartość funkcji celu: 2.755656108597285
+		Dystans Levenshteina: 241
+	8. Wartość funkcji celu: 2.8267759221033755
+		Dystans Levenshteina: 251
+	9. Wartość funkcji celu: 2.879345172965239
+		Dystans Levenshteina: 252
+	10. Wartość funkcji celu: 2.8955895968352827
+		Dystans Levenshteina: 250
+
+Iteracja 36
+
+Szansa na użycie feromonów 27.0
+	1. Wartość funkcji celu: 2.7208830452073696
+		Dystans Levenshteina: 243
+	2. Wartość funkcji celu: 2.736425614803993
+		Dystans Levenshteina: 249
+	3. Wartość funkcji celu: 2.79095041322314
+		Dystans Levenshteina: 244
+	4. Wartość funkcji celu: 2.8588853443422786
+		Dystans Levenshteina: 256
+	5. Wartość funkcji celu: 2.8588853443422786
+		Dystans Levenshteina: 250
+	6. Wartość funkcji celu: 2.6866214884674937
+		Dystans Levenshteina: 239
+	7. Wartość funkcji celu: 2.8631428330948574
+		Dystans Levenshteina: 246
+	8. Wartość funkcji celu: 2.916434836161312
+		Dystans Levenshteina: 240
+	9. Wartość funkcji celu: 2.9000615855082925
+		Dystans Levenshteina: 252
+	10. Wartość funkcji celu: 2.916434836161312
+		Dystans Levenshteina: 247
+
+Iteracja 37
+
+Szansa na użycie feromonów 27.75
+	1. Wartość funkcji celu: 2.755656108597285
+		Dystans Levenshteina: 247
+	2. Wartość funkcji celu: 2.79095041322314
+		Dystans Levenshteina: 251
+	3. Wartość funkcji celu: 2.5096020430734582
+		Dystans Levenshteina: 246
+	4. Wartość funkcji celu: 2.8428097829486454
+		Dystans Levenshteina: 256
+	5. Wartość funkcji celu: 2.8588853443422786
+		Dystans Levenshteina: 255
+	6. Wartość funkcji celu: 2.879345172965239
+		Dystans Levenshteina: 256
+	7. Wartość funkcji celu: 2.9000615855082925
+		Dystans Levenshteina: 244
+	8. Wartość funkcji celu: 2.9000615855082925
+		Dystans Levenshteina: 258
+	9. Wartość funkcji celu: 2.916434836161312
+		Dystans Levenshteina: 254
+	10. Wartość funkcji celu: 2.916434836161312
+		Dystans Levenshteina: 246
+
+Iteracja 38
+
+Szansa na użycie feromonów 28.5
+	1. Wartość funkcji celu: 2.6680883290816326
+		Dystans Levenshteina: 251
+	2. Wartość funkcji celu: 2.755656108597285
+		Dystans Levenshteina: 251
+	3. Wartość funkcji celu: 2.806818181818182
+		Dystans Levenshteina: 252
+	4. Wartość funkcji celu: 2.806818181818182
+		Dystans Levenshteina: 238
+	5. Wartość funkcji celu: 2.8631428330948574
+		Dystans Levenshteina: 244
+	6. Wartość funkcji celu: 2.8631428330948574
+		Dystans Levenshteina: 251
+	7. Wartość funkcji celu: 2.6722630576769517
+		Dystans Levenshteina: 253
+	8. Wartość funkcji celu: 2.806818181818182
+		Dystans Levenshteina: 253
+	9. Wartość funkcji celu: 2.806818181818182
+		Dystans Levenshteina: 254
+	10. Wartość funkcji celu: 2.8267759221033755
+		Dystans Levenshteina: 258
+
+Iteracja 39
+
+Szansa na użycie feromonów 29.25
+	1. Wartość funkcji celu: 2.771360127761512
+		Dystans Levenshteina: 256
+	2. Wartość funkcji celu: 2.9000615855082925
+		Dystans Levenshteina: 226
+	3. Wartość funkcji celu: 2.879345172965239
+		Dystans Levenshteina: 244
+	4. Wartość funkcji celu: 2.9000615855082925
+		Dystans Levenshteina: 246
+	5. Wartość funkcji celu: 2.9000615855082925
+		Dystans Levenshteina: 250
+	6. Wartość funkcji celu: 2.95408950617284
+		Dystans Levenshteina: 257
+	7. Wartość funkcji celu: 2.879345172965239
+		Dystans Levenshteina: 236
+	8. Wartość funkcji celu: 2.916434836161312
+		Dystans Levenshteina: 252
+	9. Wartość funkcji celu: 2.937542866941015
+		Dystans Levenshteina: 246
+	10. Wartość funkcji celu: 2.975597620335316
+		Dystans Levenshteina: 253
+
+Iteracja 40
+
+Szansa na użycie feromonów 30.0
+	1. Wartość funkcji celu: 2.6680883290816326
+		Dystans Levenshteina: 255
+	2. Wartość funkcji celu: 2.5720463966836733
+		Dystans Levenshteina: 247
+	3. Wartość funkcji celu: 2.7520087655222794
+		Dystans Levenshteina: 250
+	4. Wartość funkcji celu: 2.8227272727272728
+		Dystans Levenshteina: 243
+	5. Wartość funkcji celu: 2.8588853443422786
+		Dystans Levenshteina: 249
+	6. Wartość funkcji celu: 2.879345172965239
+		Dystans Levenshteina: 249
+	7. Wartość funkcji celu: 2.8955895968352827
+		Dystans Levenshteina: 237
+	8. Wartość funkcji celu: 2.916434836161312
+		Dystans Levenshteina: 248
+	9. Wartość funkcji celu: 2.9328505595786702
+		Dystans Levenshteina: 254
+	10. Wartość funkcji celu: 2.793030889655753
+		Dystans Levenshteina: 243
+
+Iteracja 41
+
+Szansa na użycie feromonów 30.75
+	1. Wartość funkcji celu: 2.5868118098519854
+		Dystans Levenshteina: 250
+	2. Wartość funkcji celu: 2.7188223009356896
+		Dystans Levenshteina: 257
+	3. Wartość funkcji celu: 2.6383613343072803
+		Dystans Levenshteina: 249
+	4. Wartość funkcji celu: 2.879345172965239
+		Dystans Levenshteina: 238
+	5. Wartość funkcji celu: 2.7066735537190083
+		Dystans Levenshteina: 241
+	6. Wartość funkcji celu: 2.771360127761512
+		Dystans Levenshteina: 242
+	7. Wartość funkcji celu: 2.806818181818182
+		Dystans Levenshteina: 249
+	8. Wartość funkcji celu: 2.9000615855082925
+		Dystans Levenshteina: 246
+	9. Wartość funkcji celu: 2.916434836161312
+		Dystans Levenshteina: 256
+	10. Wartość funkcji celu: 2.9328505595786702
+		Dystans Levenshteina: 255
+
+Iteracja 42
+
+Szansa na użycie feromonów 31.5
+	1. Wartość funkcji celu: 2.5840788682101343
+		Dystans Levenshteina: 252
+	2. Wartość funkcji celu: 2.619595061728395
+		Dystans Levenshteina: 253
+	3. Wartość funkcji celu: 2.6346666666666665
+		Dystans Levenshteina: 233
+	4. Wartość funkcji celu: 2.652861926020408
+		Dystans Levenshteina: 259
+	5. Wartość funkcji celu: 2.6680883290816326
+		Dystans Levenshteina: 268
+	6. Wartość funkcji celu: 2.6833545918367343
+		Dystans Levenshteina: 235
+	7. Wartość funkcji celu: 2.6866214884674937
+		Dystans Levenshteina: 252
+	8. Wartość funkcji celu: 2.8227272727272728
+		Dystans Levenshteina: 228
+	9. Wartość funkcji celu: 2.8227272727272728
+		Dystans Levenshteina: 253
+	10. Wartość funkcji celu: 2.8428097829486454
+		Dystans Levenshteina: 252
+
+Iteracja 43
+
+Szansa na użycie feromonów 32.25
+	1. Wartość funkcji celu: 2.6346666666666665
+		Dystans Levenshteina: 241
+	2. Wartość funkcji celu: 2.806818181818182
+		Dystans Levenshteina: 252
+	3. Wartość funkcji celu: 2.6722630576769517
+		Dystans Levenshteina: 256
+	4. Wartość funkcji celu: 2.7208830452073696
+		Dystans Levenshteina: 243
+	5. Wartość funkcji celu: 2.8267759221033755
+		Dystans Levenshteina: 259
+	6. Wartość funkcji celu: 2.879345172965239
+		Dystans Levenshteina: 251
+	7. Wartość funkcji celu: 2.8267759221033755
+		Dystans Levenshteina: 251
+	8. Wartość funkcji celu: 2.9000615855082925
+		Dystans Levenshteina: 253
+	9. Wartość funkcji celu: 2.74160255207356
+		Dystans Levenshteina: 247
+	10. Wartość funkcji celu: 2.879345172965239
+		Dystans Levenshteina: 256
+
+Iteracja 44
+
+Szansa na użycie feromonów 33.0
+	1. Wartość funkcji celu: 2.7174284622654787
+		Dystans Levenshteina: 243
+	2. Wartość funkcji celu: 2.755656108597285
+		Dystans Levenshteina: 253
+	3. Wartość funkcji celu: 2.8631428330948574
+		Dystans Levenshteina: 241
+	4. Wartość funkcji celu: 2.879345172965239
+		Dystans Levenshteina: 257
+	5. Wartość funkcji celu: 2.879345172965239
+		Dystans Levenshteina: 249
+	6. Wartość funkcji celu: 2.79095041322314
+		Dystans Levenshteina: 251
+	7. Wartość funkcji celu: 2.879345172965239
+		Dystans Levenshteina: 251
+	8. Wartość funkcji celu: 2.9328505595786702
+		Dystans Levenshteina: 245
+	9. Wartość funkcji celu: 2.879345172965239
+		Dystans Levenshteina: 254
+	10. Wartość funkcji celu: 2.937542866941015
+		Dystans Levenshteina: 240
+
+Iteracja 45
+
+Szansa na użycie feromonów 33.75
+	1. Wartość funkcji celu: 2.5692716722622215
+		Dystans Levenshteina: 250
+	2. Wartość funkcji celu: 2.7174284622654787
+		Dystans Levenshteina: 254
+	3. Wartość funkcji celu: 2.7020048663757565
+		Dystans Levenshteina: 254
+	4. Wartość funkcji celu: 2.736425614803993
+		Dystans Levenshteina: 251
+	5. Wartość funkcji celu: 2.771360127761512
+		Dystans Levenshteina: 239
+	6. Wartość funkcji celu: 2.806818181818182
+		Dystans Levenshteina: 256
+	7. Wartość funkcji celu: 2.8631428330948574
+		Dystans Levenshteina: 241
+	8. Wartość funkcji celu: 2.879345172965239
+		Dystans Levenshteina: 241
+	9. Wartość funkcji celu: 2.879345172965239
+		Dystans Levenshteina: 246
+	10. Wartość funkcji celu: 2.879345172965239
+		Dystans Levenshteina: 250
+
+Iteracja 46
+
+Szansa na użycie feromonów 34.5
+	1. Wartość funkcji celu: 2.6866214884674937
+		Dystans Levenshteina: 250
+	2. Wartość funkcji celu: 2.652861926020408
+		Dystans Levenshteina: 237
+	3. Wartość funkcji celu: 2.8267759221033755
+		Dystans Levenshteina: 256
+	4. Wartość funkcji celu: 2.8227272727272728
+		Dystans Levenshteina: 254
+	5. Wartość funkcji celu: 2.8428097829486454
+		Dystans Levenshteina: 236
+	6. Wartość funkcji celu: 2.9706790123456788
+		Dystans Levenshteina: 263
+	7. Wartość funkcji celu: 2.95408950617284
+		Dystans Levenshteina: 232
+	8. Wartość funkcji celu: 2.9706790123456788
+		Dystans Levenshteina: 243
+	9. Wartość funkcji celu: 2.8333333333333335
+		Dystans Levenshteina: 245
+	10. Wartość funkcji celu: 2.9923201730665228
+		Dystans Levenshteina: 253
+
+Iteracja 47
+
+Szansa na użycie feromonów 35.25
+	1. Wartość funkcji celu: 2.8428097829486454
+		Dystans Levenshteina: 249
+	2. Wartość funkcji celu: 2.8428097829486454
+		Dystans Levenshteina: 236
+	3. Wartość funkcji celu: 2.755656108597285
+		Dystans Levenshteina: 238
+	4. Wartość funkcji celu: 2.8428097829486454
+		Dystans Levenshteina: 243
+	5. Wartość funkcji celu: 2.8631428330948574
+		Dystans Levenshteina: 251
+	6. Wartość funkcji celu: 2.771360127761512
+		Dystans Levenshteina: 257
+	7. Wartość funkcji celu: 2.8955895968352827
+		Dystans Levenshteina: 251
+	8. Wartość funkcji celu: 2.77706001178352
+		Dystans Levenshteina: 262
+	9. Wartość funkcji celu: 2.916434836161312
+		Dystans Levenshteina: 248
+	10. Wartość funkcji celu: 2.9328505595786702
+		Dystans Levenshteina: 258
+
+Iteracja 48
+
+Szansa na użycie feromonów 36.0
+	1. Wartość funkcji celu: 2.5372807017543857
+		Dystans Levenshteina: 244
+	2. Wartość funkcji celu: 2.601730754170256
+		Dystans Levenshteina: 239
+	3. Wartość funkcji celu: 2.6833545918367343
+		Dystans Levenshteina: 253
+	4. Wartość funkcji celu: 2.7174284622654787
+		Dystans Levenshteina: 256
+	5. Wartość funkcji celu: 2.6383613343072803
+		Dystans Levenshteina: 239
+	6. Wartość funkcji celu: 2.806818181818182
+		Dystans Levenshteina: 242
+	7. Wartość funkcji celu: 2.6230825420014607
+		Dystans Levenshteina: 250
+	8. Wartość funkcji celu: 2.736425614803993
+		Dystans Levenshteina: 248
+	9. Wartość funkcji celu: 2.725839744792644
+		Dystans Levenshteina: 229
+	10. Wartość funkcji celu: 2.8955895968352827
+		Dystans Levenshteina: 238
+
+Iteracja 49
+
+Szansa na użycie feromonów 36.75
+	1. Wartość funkcji celu: 2.5692716722622215
+		Dystans Levenshteina: 254
+	2. Wartość funkcji celu: 2.79095041322314
+		Dystans Levenshteina: 247
+	3. Wartość funkcji celu: 2.462970344387755
+		Dystans Levenshteina: 251
+	4. Wartość funkcji celu: 2.68774185622735
+		Dystans Levenshteina: 260
+	5. Wartość funkcji celu: 2.806818181818182
+		Dystans Levenshteina: 234
+	6. Wartość funkcji celu: 2.8631428330948574
+		Dystans Levenshteina: 246
+	7. Wartość funkcji celu: 2.9000615855082925
+		Dystans Levenshteina: 257
+	8. Wartość funkcji celu: 2.916434836161312
+		Dystans Levenshteina: 246
+	9. Wartość funkcji celu: 2.725839744792644
+		Dystans Levenshteina: 241
+	10. Wartość funkcji celu: 2.77706001178352
+		Dystans Levenshteina: 253
+
+Iteracja 50
+
+Szansa na użycie feromonów 37.5
+	1. Wartość funkcji celu: 2.6833545918367343
+		Dystans Levenshteina: 254
+	2. Wartość funkcji celu: 2.7208830452073696
+		Dystans Levenshteina: 248
+	3. Wartość funkcji celu: 2.736425614803993
+		Dystans Levenshteina: 246
+	4. Wartość funkcji celu: 2.755656108597285
+		Dystans Levenshteina: 250
+	5. Wartość funkcji celu: 2.806818181818182
+		Dystans Levenshteina: 250
+	6. Wartość funkcji celu: 2.8267759221033755
+		Dystans Levenshteina: 257
+	7. Wartość funkcji celu: 2.8267759221033755
+		Dystans Levenshteina: 224
+	8. Wartość funkcji celu: 2.8428097829486454
+		Dystans Levenshteina: 250
+	9. Wartość funkcji celu: 2.8955895968352827
+		Dystans Levenshteina: 226
+	10. Wartość funkcji celu: 2.8267759221033755
+		Dystans Levenshteina: 242
+
+========================================
+
+Feromony na koniec: [[494.56192911   0.           0.         ...   0.           0.
+    0.        ]
+ [  0.         130.5313675    0.         ...   0.           0.
+    0.        ]
+ [  0.           0.         245.97018801 ...   0.           0.
+    0.        ]
+ ...
+ [  0.           0.           0.         ...   0.           0.
+    0.        ]
+ [  0.           0.           0.         ...   0.           0.
+    0.        ]
+ [  0.           0.           0.         ...   0.           0.
+    0.        ]]
+Suma odwiedzonych wag najlepszego rozwiązania: 0.012421056167696856
+Najlepsze rozwiązanie: (0.012421056167696856, 'GATGGATCGTTTTGGAAGCCCGTCTGTTAGTCCCTCGGGCTTTTGACCAAAGCTGTGACAACCGCATGTTTCAGGCTGTTTGAACACAGAAGGAGACGACCGTTATCCATTGTGTCATATGCGATGACATTGCACATGCAGTGCTTCTGGAAGCGCAGGGCCCAGTAAGGATTGTTATCTCAGGGAGGGCGGTGGTTGACGAGGGTTCGGGCGAGCATGATGAGAGTTGCGCTGCCACGCCCCCCGTGACGTACGCGGAACACGGAGCTGCAATTGGTCGCAAGGTCTCTCATAGGGCTATCAGCGCGGGGGATAGAACCATGTTGAGTTATCCAGTTCGCCTGTCCATGGAGGCGAATTGGAGTTACCGAACCTTAACCTAAAAGTACCGTATTGGGCTACCATAGTCGGGCTGGCATCGGAAGTCTCTTGCGGTTTCGGAGTCGGGGAGTTTGGTGATGATGCCCACATGCTTACAATAAGCTCCGTTGGTCAAGACC')
+oryginalna: GATGGATCGTTTTGGAAGCGCAGGGCCCAGTAAGGATTGTTATCCATTGTGTCATATGCGATGACATTGCACATGCAGTGCTTCTGGAAGCCCGTCTGTTAGTCCCTCGGGCGAGCATGATGCCCACATGCTTACAATAAGCTCCGTTGGTCGCAAGGTCTCTTGCGGTTTCGGAGTCGGGGAGTTTGGTGATGATGAGAGTTGCGCTGCCACGCCCCCCGTGACGTACGCGGAACACAGAAGGAGACGACCGTTATCCAGTTCGCCTGTCCATGGAGGCGAATTGGAGTTATCTCAGGGAGGGCGGTGGTTGACGAGGGTTCGGGCTGGCATCGGAAGTCTCTCATAGGGCTATCAGCGCGGGGGATAGAACCATGTTGAGTTACCGAACCTTAACCTAAAAGTACCGTATTGGGCTACCATAGTCGGGCTTTTGACCAAAGCTGTGACAACCGCATGTTTCAGGCTGTTTGAACACGGAGCTGCAATTGGTCAAGACC
+odtworzona: GATGGATCGTTTTGGAAGCCCGTCTGTTAGTCCCTCGGGCTTTTGACCAAAGCTGTGACAACCGCATGTTTCAGGCTGTTTGAACACAGAAGGAGACGACCGTTATCCATTGTGTCATATGCGATGACATTGCACATGCAGTGCTTCTGGAAGCGCAGGGCCCAGTAAGGATTGTTATCTCAGGGAGGGCGGTGGTTGACGAGGGTTCGGGCGAGCATGATGAGAGTTGCGCTGCCACGCCCCCCGTGACGTACGCGGAACACGGAGCTGCAATTGGTCGCAAGGTCTCTCATAGGGCTATCAGCGCGGGGGATAGAACCATGTTGAGTTATCCAGTTCGCCTGTCCATGGAGGCGAATTGGAGTTACCGAACCTTAACCTAAAAGTACCGTATTGGGCTACCATAGTCGGGCTGGCATCGGAAGTCTCTTGCGGTTTCGGAGTCGGGGAGTTTGGTGATGATGCCCACATGCTTACAATAAGCTCCGTTGGTCAAGACC
+dystans Levenshteina: 218
